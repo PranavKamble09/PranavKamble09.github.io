@@ -44,7 +44,7 @@ A motivated and detail-oriented Master's student in Supply Chain Management with
 
 ## **Projects**
 
-### PK Project2)
+### MyProjectsPK
 
 
 ## **Additional Skills**
