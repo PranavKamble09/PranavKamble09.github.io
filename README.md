@@ -44,15 +44,8 @@ A motivated and detail-oriented Master's student in Supply Chain Management with
 
 ## **Projects**
 
-### Physiochemical Analysis and Quality Assessment of Red Guava Fruit Drink (Using Quality by Design Approach)
-- Conducted comprehensive physiochemical evaluation on pink guava fruit drink making use of the Quality via Design (QBD) method to ensure product high quality and consistency.
-- Identified crucial quality attributes (CQAs), together with pH, general soluble solids (TSS), titratable acidity, colour, and sensory characteristics, to evaluate product performance and niceness.
-- Contributed to improving product excellence, consistency, and purchaser delight by ensuring product repeatability and consistency through systematic evaluation and regulation of CQAs.
+### PK Project2)
 
-### Formulation and Evaluation of Cold Cream Variants
-- Spearheaded the formulation process for various types of cold cream, including vanishing cream and moisturizing cream, by researching and finalizing component compositions.
-- Successfully organized and evaluated the initial batch of cold cream versions, ensuring adherence to formulated recipes and quality standards.
-- Contributed to the development of exceptional cold cream products through meticulous formulation, ingredient selection, and batch evaluation processes.
 
 ## **Additional Skills**
 - Data Entry
