@@ -63,3 +63,4 @@ A motivated and detail-oriented Master's student in Supply Chain Management with
 - Email: pranavkamble@slu.edu
 - Phone: +1(314)267-2367
 - LinkedIn
+```
