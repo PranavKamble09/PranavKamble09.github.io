@@ -1,4 +1,5 @@
-# Pranav D Kamble Resume
+# **Pranav D Kamble **
+[Email](mailto:pranav.kamble@slu.edu 
 
 A motivated and detail-oriented Master's student in Supply Chain Management with proven experience in administrative support, data management, and event preparation seeking the Career Resources Center Intern position at the Chaifetz School of Business.
 
@@ -58,8 +59,3 @@ A motivated and detail-oriented Master's student in Supply Chain Management with
 - Document Management
 - Event Planning
 - Event Coordination
-
-## Contact
-- Email: pranavkamble@slu.edu
-- Phone: +1(314)267-2367
-- LinkedIn
